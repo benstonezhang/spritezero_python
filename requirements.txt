@@ -1,0 +1,4 @@
+freetype-py>=2.4.0
+pycairo>=1.23.0
+rectpack>=0.2.2
+CairoSVG>=2.7.1
